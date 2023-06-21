@@ -1,7 +1,7 @@
 # ***☕ hi there, i'm realm***
-- i'm not responsible for any foolishness that i do (because it was too silly)
+- i'm not responsible for any damage done to anything (if i warned you)
 - :)
-- if you can't understand a single joke that i do, why even bother at this point?  
+- average windows user
 
 
 ![windows](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)  
