@@ -10,7 +10,7 @@
 
 other things:  
 
-![yeah](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=realmkebab&theme=discord_old_blurple)  
-![yeah2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realmkebab&theme=discord_old_blurple)  
+![yeah](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealmKebab&theme=discord_old_blurple)  
+![yeah2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealmKebab&theme=discord_old_blurple)  
 
 check out liquid: https://modrinth.com/modpack/liquid
