@@ -1,13 +1,4 @@
-# ***☕ hi there, i'm realm***
-- i'm not responsible for any damage done to anything (if i warned you)
-- :-)
-- average windows user
-
-
-[![windows](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](https://en.wikipedia.org/wiki/Windows_11)  
-[![i love obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)](https://obsidian.md/)  
-
-other things:  
+- beware: i am a professional dumbass
 
 ![yeah](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealmKebab&theme=discord_old_blurple)  
 ![yeah2](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RealmKebab&theme=discord_old_blurple)  
